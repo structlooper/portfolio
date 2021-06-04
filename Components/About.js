@@ -3,9 +3,9 @@ const About = () => {
         <div>
             <h3>UI/UX Developer, Web Developer & Application Developer.</h3>
             <p className="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore
-                magna aliqua.
+            I started working as a backend developer, after enhancing my skills.
+            <br />
+            Now,i am working as a full-stack developer as well as application development.
             </p>
             <div className="row">
                 <div className="col-lg-6">
