@@ -8,11 +8,11 @@ const Resume = () => {
 
             <div className="row">
                 <div className="col-lg-6" data-aos="fade-up">
-                    <h3 className="resume-title">Sumary</h3>
+                    <h3 className="resume-title">Summary</h3>
                     <div className="resume-item pb-0">
                         <h4>Deepak Kumar</h4>
                         <p><em>Efficient and deadline-driven Full-Stack Developer with 2+ years of experience designing
-                            and developing softwares.</em></p>
+                            and developing software.</em></p>
                         <ul>
                             <li>(+91) 767-817-8911</li>
                             <li>Structlooper@gmail.com</li>
@@ -45,11 +45,11 @@ const Resume = () => {
                         <h5>2020 - Present</h5>
                         <p><em>Gurugram, Haryana India </em></p>
                         <ul>
-                            <li>Lead in the development, and implementation of the Logic, layout of softwares</li>
+                            <li>Lead in the development, and implementation of the Logic, layout of software</li>
                             <li>Delegate tasks to the interns of the Development team and provide help to develop the
                                 project.
                             </li>
-                            <li>Design & Develop softwares according to client requirement.</li>
+                            <li>Design & Develop software according to client requirement.</li>
                         </ul>
                     </div>
                     <div className="resume-item">
